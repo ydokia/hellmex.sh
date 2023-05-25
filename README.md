@@ -1,1 +1,1 @@
-chmod +x miner.sh && ./miner.sh
+chmod +x hellcat.sh && ./hellcat.sh
