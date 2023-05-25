@@ -1,1 +1,1 @@
-# hellmex.sh
+chmod +x miner.sh && ./miner.sh
